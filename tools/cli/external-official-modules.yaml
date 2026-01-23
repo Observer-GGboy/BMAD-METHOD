@@ -2,6 +2,18 @@
 # allowing us to keep the source of these projects in separate repos.
 
 modules:
+  agent-window:
+    url: https://github.com/Observer-GGboy/AgentWindow
+    module-definition: _bmad-output/bmb-creations/modules/bmd/module.yaml
+    code: bmd
+    name: "AgentWindow"
+    header: "Discord becomes your AI expert meeting room"
+    subheader: "AI-powered Discord bot platform for BMAD experts"
+    description: "BMAD 模块，将 Discord 转换为 AI 专家会议室。支持多专家协作、频道上下文隔离、Docker 沙箱代码执行"
+    defaultSelected: false
+    type: community
+    branch: feature/bmad-integration
+
   bmad-builder:
     url: https://github.com/bmad-code-org/bmad-builder
     module-definition: src/module.yaml
