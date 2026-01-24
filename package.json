@@ -1,8 +1,8 @@
 {
   "$schema": "https://json.schemastore.org/package.json",
-  "name": "bmad-method",
+  "name": "observer-ggboy-bmad-method",
   "version": "6.0.0-alpha.23",
-  "description": "Breakthrough Method of Agile AI-driven Development",
+  "description": "Breakthrough Method of Agile AI-driven Development (Observer-GGboy fork)",
   "keywords": [
     "agile",
     "ai",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bmad-code-org/BMAD-METHOD.git"
+    "url": "git+https://github.com/Observer-GGboy/BMAD-METHOD.git"
   },
   "license": "MIT",
   "author": "Brian (BMad) Madison",
