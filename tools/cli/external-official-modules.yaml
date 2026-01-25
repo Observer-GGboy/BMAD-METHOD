@@ -12,7 +12,6 @@ modules:
     description: "BMAD 模块，将 Discord 转换为 AI 专家会议室。支持多专家协作、频道上下文隔离、Docker 沙箱代码执行"
     defaultSelected: false
     type: community
-    branch: feature/bmad-integration
 
   bmad-builder:
     url: https://github.com/bmad-code-org/bmad-builder
