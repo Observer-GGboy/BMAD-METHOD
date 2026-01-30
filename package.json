@@ -1,8 +1,8 @@
 {
   "$schema": "https://json.schemastore.org/package.json",
-  "name": "bmad-method",
+  "name": "observer-ggboy-bmad-method",
   "version": "6.0.0-Beta.4",
-  "description": "Breakthrough Method of Agile AI-driven Development",
+  "description": "Breakthrough Method of Agile AI-driven Development (Observer-GGboy fork)",
   "keywords": [
     "agile",
     "ai",
